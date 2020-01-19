@@ -1,3 +1,0 @@
-[console_scripts]
-Bidirectional Hash Map = Bidirectional_Hash_Map.bidirectional_hash_map:main
-

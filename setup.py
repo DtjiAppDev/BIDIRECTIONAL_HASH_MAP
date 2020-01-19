@@ -9,7 +9,7 @@ def readme():
 
 setup(
     name='Bidirectional Hash Map',
-    version='1',
+    version='1.00',
     packages=['Bidirectional_Hash_Map'],
     url='https://github.com/DtjiAppDev/BIDIRECTIONAL_HASH_MAP',
     license='MIT',
