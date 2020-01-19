@@ -11,7 +11,7 @@ setup(
     name='Bidirectional Hash Map',
     version='1',
     packages=['Bidirectional_Hash_Map'],
-    url='',
+    url='https://github.com/DtjiAppDev/BIDIRECTIONAL_HASH_MAP',
     license='MIT',
     author='Dtji AppDev',
     author_email='dtjiappdev1999@gmail.com',

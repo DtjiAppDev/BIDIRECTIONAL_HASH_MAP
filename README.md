@@ -1,4 +1,4 @@
-# Penalty Kick Saver
+# Bidirectional Hash Map
 
 A Python package contains implementation of a Bidirectional Hash Map.
 
